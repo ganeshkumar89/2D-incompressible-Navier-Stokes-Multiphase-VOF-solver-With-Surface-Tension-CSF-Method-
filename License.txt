@@ -1,0 +1,38 @@
+# 2D TWO-PHASE FLOW SIMULATOR (TOY CODE) LICENSE AGREEMENT
+
+Copyright (c) 2025 Ganesh Kumar (cgflowcfd@gmail.com)
+
+This executable file is an educational tool with limited capabilities ("Toy Code") 
+intended for teaching and learning computational fluid dynamics concepts.
+
+TERMS AND CONDITIONS:
+
+1. EDUCATIONAL USE: This executable file may be freely used, modified, and distributed
+   for educational and academic research purposes only.
+
+2. ATTRIBUTION: Any academic publications, presentations, or educational materials
+   that use results produced by this executable file must acknowledge the original authors.
+
+3. DISCLAIMER: This executable file is provided "as is" without any warranties, express or
+   implied. The authors make no representations regarding the accuracy or suitability 
+   of this executable file for any purpose. It is specifically designed as a simplified 
+   implementation with known limitations and is not suitable for production or 
+   engineering applications.
+
+4. NO LIABILITY: In no event shall the authors be liable for any direct, indirect, 
+   incidental, special, exemplary, or consequential damages arising from the use of
+   this executable file.
+
+5. COMMERCIAL USE: Commercial use is prohibited without explicit written permission
+   from the copyright holders.
+
+6. REDISTRIBUTION: Redistributions of the executable file must retain this notice, list
+   of conditions, and disclaimer.
+
+7. DERIVED WORKS: If you modify or extend this executable file, you must clearly mark your
+   changes and include a notice that the code has been modified from the original.
+
+8. TERMINATION: Any violation of these terms will automatically terminate your rights
+   under this license.
+
+BY USING THIS EXECUTABLE FILE, YOU INDICATE YOUR ACCEPTANCE OF THESE TERMS AND CONDITIONS.
